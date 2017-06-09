@@ -1,4 +1,14 @@
 Chapter 1
 
-The tiger cat liked to go in and out of doors.
+The tiger cat liked to go in and out of doors. It had a simple central processor,
+that went something like this:
+
+if out
+  go in
+else
+  go out
+fi
+
+It couldn't tell time beyond, say, 15 seconds. Meaning that it forgot that it had
+just gone in or out after about 15 seconds in its new environment.
 
