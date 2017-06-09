@@ -1,4 +1,12 @@
 Chapter 1
 
-The tiger cat liked to go in and out of doors.
+The tiger cat liked to go in and out of doors. It had a simple central processor,
+that went something like this:
+
+if out
+  go in
+else
+  go out
+fi
+
 
